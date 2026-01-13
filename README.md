@@ -8,4 +8,5 @@
 7-1-26 - Did new Java Methods Programs L1,L2 and L3.<br>
 8-1-26 - Did new Java String Programs l1,l2 and l3.<br>
 9-1-26 - Added new CG Coding Practice Programs.<br>
-12-1-26 - Did some bitwise operator questions.
+12-1-26 - Did some bitwise operator questions.<br>
+13-1-26 - Did some easy to medium level GFG coding questions.
