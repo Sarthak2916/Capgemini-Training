@@ -12,4 +12,5 @@
 13-1-26 - Did some easy to medium level GFG coding questions.<br>
 14-1-26 - Added questions did on edabit platform.<br>
 15-1-26 - Solved Java class and object problems.<br>
-16-1-26 - Solved Java constructors problems.
+16-1-26 - Solved Java constructors problems.<br>
+18-1-26 - Solved some problems on this,static,final,instanceof operator.
