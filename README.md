@@ -15,4 +15,5 @@
 16-1-26 - Solved Java constructors problems.<br>
 18-1-26 - Solved some problems on this,static,final,instanceof operator.<br>
 20-1-26 - Solved problems on inheritance.<br>
-21-1-26 - Solved problems on encapsulation, polymorphism, interface and abstract class.
+21-1-26 - Solved problems on encapsulation, polymorphism, interface and abstract class.<br>
+22-1-26 - Solved problems on Object Modeling.
