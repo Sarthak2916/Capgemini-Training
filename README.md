@@ -1,4 +1,4 @@
-# Capgemini-Training
+# CG-Training
 
 31-12-25 - Did Java Level 1 Programs<br>
 2-1-26 - Did Java Level 2 Programs<br>
@@ -17,4 +17,5 @@
 20-1-26 - Solved problems on inheritance.<br>
 21-1-26 - Solved problems on encapsulation, polymorphism, interface and abstract class.<br>
 22-1-26 - Solved problems on Object Modeling.<br>
-23-1-26 - Solved some more problems on Object Modeling.
+23-1-26 - Solved some more problems on Object Modeling.<br>
+27-1-26 - Solved some questions on LinkedList.
