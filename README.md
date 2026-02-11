@@ -32,4 +32,5 @@
 7-2-26 - Solved problems on Java Regex.<br>
 8-2-26 - Solved problems on JUnit Testing.<br>
 9-2-26 - Solved some problems on opencsv Java.<br>
-10-2-26 - Solved some problems on Edabit platform.
+10-2-26 - Solved some problems on Edabit platform.<br>
+11-2-26 - Solved some problems on Java annotations,Reflection.
