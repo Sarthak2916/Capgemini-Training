@@ -34,4 +34,5 @@
 9-2-26 - Solved some problems on opencsv Java.<br>
 10-2-26 - Solved some problems on Edabit platform.<br>
 11-2-26 - Solved some problems on Java annotations,Reflection.<br>
-12-2-26 - Learned Json handling in java. 
+12-2-26 - Learned Json handling in java.<br>
+13-2-6 - Solved problems on Lambda Expression and Method Reference. 
